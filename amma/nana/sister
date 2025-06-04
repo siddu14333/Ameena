@@ -1,0 +1,10 @@
+                            Raja
+
+vMethods to change the folder in Git Bash
+pwd can be used to search the current folder
+
+You will need to use quotation marks if the path includes spaces ( cd “C:/Program Files”)
+
+On Windows, you can change the default starting directory of Git Bash.
+
+"Change directory" is a good way to recognize the cd command.
